@@ -1,0 +1,4 @@
+name = "Silent Truth Copy"
+
+[files]
+"main.py" = "main.py"
